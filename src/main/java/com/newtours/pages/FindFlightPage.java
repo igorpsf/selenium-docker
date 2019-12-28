@@ -29,7 +29,7 @@ public class FindFlightPage {
         this.firstSubmitBtn.click();
     }
 
-    public void goToOrderConfirmationPage(){
+    public void goToFlightConfirmationPage(){
         this.wait.until(ExpectedConditions.elementToBeClickable(this.secondSubmitBtn));
         this.secondSubmitBtn.click();
     }
