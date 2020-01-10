@@ -19,6 +19,11 @@
 ### Zalenium
 1) https://opensource.zalando.com/zalenium/
 
+### Maven
+1) mvn clean - clear project
+2) mvn clean package -DskipTests - build jars + target folder
+
+
 ##### Pull docker-selenium
     docker pull elgalu/selenium
 
