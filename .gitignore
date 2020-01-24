@@ -2,3 +2,4 @@
 target/
 Output/
 search-module/
+.DS_Store
