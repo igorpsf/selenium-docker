@@ -3,3 +3,4 @@ target/
 Output/
 search-module/
 .DS_Store
+seleniumdocker.iml
